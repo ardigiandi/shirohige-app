@@ -1,0 +1,69 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-heading-color{
+    font-size: 30px;
+    font-weight: 400;
+    color: #1700FF;
+    font-family:'Tanker', sans-serif;;
+
+}
+
+.container .color{
+    background-color: #1700FF;
+    width: 167px;
+    height: 52px;
+    color: white;
+    border-radius: 50px;
+}
+
+.tagline{
+    padding-top: 30px;
+    width: 620px;
+    height: 234px;
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 78px;
+}
+
+.logo{
+    width: 454px;
+    padding: 0px 18px 0px 17px;
+    margin-top: 56px;
+}
+
+.desc-text{
+    margin-top: 50px;
+}
+
+.logo-play{
+    width: 24px;
+    height: 24px;
+    
+}
+
+.started{
+    width: 203px;
+    height: 56px;
+    background-color: #1700FF;
+    color: white;
+    border-radius: 50px;
+}
+
+.play-video{
+    width: 203px;
+    height: 56px;
+    border-color: #1700FF;
+    border-radius: 50px;
+}
+
+.sub-logo{
+    width: 97px;
+    height: 97px;
+    margin-left: 580px;
+    margin-top: -50px;
+}
